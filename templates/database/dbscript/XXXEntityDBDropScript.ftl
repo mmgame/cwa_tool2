@@ -1,0 +1,1 @@
+DROP TABLE IF EXISTS `${tableNumber}_${tableName?lower_case}`;
